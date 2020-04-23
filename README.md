@@ -1,2 +1,0 @@
-# Blogpost
-Un blogpost increíble
